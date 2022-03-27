@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-### Ride share summary data by city type.
+## Ride share summary data by city type.
 
 ## Results
 * More fares by urban cities.
